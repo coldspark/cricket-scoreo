@@ -1,1 +1,0 @@
-import{d as t,a2 as o,_ as r,Y as n,S as d,W as a}from"./index-DeROrkdA.js";const c=t({emits:[],setup(){return{router:o()}}}),p={...c},i={style:{border:"1px solid #ddd","border-radius":"15px"}};function u(s,e,_,x,f,l){return d(),n("div",i,e[0]||(e[0]=[a("div",{class:"text-h1"},"Index",-1)]))}const B=r(p,[["render",u]]);export{B as default};
