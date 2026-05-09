@@ -1,0 +1,1 @@
+import{d as t,a1 as o,_ as r,X as n,R as d,V as a}from"./index-C6erKbaW.js";const c=t({emits:[],setup(){return{router:o()}}}),p={...c},i={style:{border:"1px solid #ddd","border-radius":"15px"}};function u(s,e,_,x,f,l){return d(),n("div",i,e[0]||(e[0]=[a("div",{class:"text-h1"},"Index",-1)]))}const B=r(p,[["render",u]]);export{B as default};
